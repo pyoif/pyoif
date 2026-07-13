@@ -4,12 +4,12 @@
 
 **Fullstack Developer · Open Source Enthusiast**
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat-square)](https://github.com/pyoif)
-[![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&style=flat-square)](https://gitlab.com/pyoif)
-[![Codeberg](https://img.shields.io/badge/-Codeberg-2185D3?style=flat-square)](https://codeberg.org/pyoif)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&style=flat-square)](https://twitter.com/pyoif)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=flat-square)](https://linkedin.com/in/pyoif)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&style=flat-square)](mailto:kafetheine@gmail.com)
+[![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pyoif)
+[![GitLab](https://custom-icon-badges.demolab.com/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/pyoif)
+[![Codeberg](https://custom-icon-badges.demolab.com/badge/Codeberg-2185D5?style=flat-square&logo=codeberg&logoColor=white)](https://codeberg.org/pyoif)
+[![Twitter](https://custom-icon-badges.demolab.com/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/pyoif)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pyoif)
+[![Email](https://custom-icon-badges.demolab.com/badge/Email-EA4335?style=flat-square&logo=email&logoColor=white)](mailto:kafetheine@gmail.com)
 
 </div>
 
@@ -108,18 +108,6 @@ Indonesian developer with expertise in fullstack development, systems programmin
 | [deta-upload](https://codeberg.org/pyoif/deta-upload) | Go | Deta Drive file uploader |
 | [almaset](https://codeberg.org/pyoif/almaset) | Shell | Alma Linux setup script |
 | [Dotfile](https://codeberg.org/pyoif/Dotfile) | - | System configuration |
-
----
-
-## Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/pyoif-181717?logo=github&style=for-the-badge)](https://github.com/pyoif)
-[![Twitter](https://img.shields.io/badge/@pyoif-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/pyoif)
-[![Telegram](https://img.shields.io/badge/@pyoif-26A5E4?logo=telegram&style=for-the-badge)](https://telegram.me/pyoif)
-
-</div>
 
 ---
 
